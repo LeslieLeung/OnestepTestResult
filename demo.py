@@ -15,3 +15,5 @@ print (ncols)
 
 sht.write(2, 8, 'aruba')
 wb.save("aruba.xls")
+
+if ___name__ == "main"
